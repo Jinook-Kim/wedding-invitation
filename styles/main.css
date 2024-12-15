@@ -9778,6 +9778,8 @@ body {
     max-width: 600px;
     text-align: center;
     z-index: 999;
+    position: absolute; 
+    bottom: 0;
 }
 
 .ww-home-page .ww-wedding-announcement img {
@@ -10028,7 +10030,9 @@ body {
 
 /* Common Style */
 .ww-title {
-    font-family: "Great Vibes", cursive;
+    /* font-family: "Great Vibes", cursive; */
+    /* font-family: "Playwrite GB J Guides", cursive; */
+    font-family: "Lora", serif;
 }
 
 .ww-section {
